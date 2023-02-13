@@ -23,7 +23,7 @@
     const limeBusIcon = L.icon({ iconUrl: 'busIcons/limeBus.png' });     // 8
     const purpleBusIcon = L.icon({ iconUrl: 'busIcons/purpleBus.png' }); // 9
     const lightBlueBusIcon = L.icon({ iconUrl: 'busIcons/lightBlueBus.png' }); // 10
-    //test
+
     // Get real-time data for all buses currently in service throughout HRM.
     // Convert data to geoJSON, filter buses 1-10
     function getBusInfoRealtime() 
