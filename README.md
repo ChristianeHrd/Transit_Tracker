@@ -20,6 +20,7 @@ To install the app, clone the repository to your local machine and open
 
 1. Clone the repository:
     `git clone https://github.com/ChristianeHrd/Transit_Tracker.git `
+    
     `cd Transit_Tracker `
   
 ## Usage
